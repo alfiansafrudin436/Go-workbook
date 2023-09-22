@@ -1,0 +1,12 @@
+go 1.18
+
+use (
+	"./app-say-hello "
+	./learn-go-goroutine
+	./package
+	./say-hello
+	"./golang-database"
+	"./server"
+	"./http-router"
+	./belajar-golang-context
+)
